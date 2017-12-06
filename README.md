@@ -1,6 +1,9 @@
 ## Instructions
 
+To use,
+
 `python twine.py people.csv config.csv outfile.csv`
+
 
 For example,
 
